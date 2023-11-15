@@ -1,8 +1,8 @@
 </br>
 
--[Game description](#game-description)
-  -[Picutres](#picutres)
--[Author](#author)
+- [Game description](#game-description)
+  - [Picutres](#picutres)
+- [Author](#author)
 
 # Game description
 When you first start this game, an apple will appear. When you click on this apple, your score increases by 10 points. This is a game where you have to score as many points as possible within the one minute time limit. The score is displayed in the top left, and the timer is displayed in the top center. After time runs out, your score will be displayed on a blank screen.
